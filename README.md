@@ -9,7 +9,7 @@ Source code(PingPong example) and slide.
 > - **RxJS** Library for reactive programming
 > - **redux-observable** RxJS middleware for action side effects in Redux using "Epics"
 
-**Slide:** https://slides.com/nairihar/deck/
+**Slide:** https://slides.com/nairihar/renderforest-meetup-2018#/
 
 ## Used Sources
 
